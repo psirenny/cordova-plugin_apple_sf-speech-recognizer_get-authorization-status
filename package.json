@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin_apple_sf-speech-recognizer_get-authorization-status",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cordova plugin to get SFSpeechRecognizer authorizationStatus",
   "author": "Dennis Torres <djtorres0@gmail.com>",
   "bugs": "https://github.com/talk-to-track/private/issues",
