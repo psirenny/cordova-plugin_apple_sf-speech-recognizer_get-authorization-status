@@ -5,7 +5,7 @@
   "author": "Dennis Torres <djtorres0@gmail.com>",
   "bugs": "https://github.com/talk-to-track/private/issues",
   "dependencies": {
-    "cordova_apple_sf-speech-recognizer-authorization-status": "1.0.0"
+    "cordova_apple_sf-speech-recognizer-authorization-status": "^1.0.0"
   },
   "devDependencies": {
     "@babel/cli": "7.1.2",
