@@ -9,7 +9,6 @@
 .flowcoveragereportrc
 .huskyrc
 .npmpackagejsonlintrc.json
-.nyc*
 .remarkignore
 .remarkrc
 .stylelintrc

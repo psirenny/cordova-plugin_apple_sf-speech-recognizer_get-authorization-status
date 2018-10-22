@@ -1,8 +1,0 @@
-{
-  "branches": 100,
-  "functions": 100,
-  "lines": 100,
-  "reporter": ["html"],
-  "report-dir": ".nyc_coverage",
-  "statements": 100
-}
